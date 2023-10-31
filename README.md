@@ -1,6 +1,6 @@
 # Hello, I'm Sahil Kansal 👋
 
-[![Instagram Follow](https://img.shields.io/badge/Follow%20on%20Instagram-%40itz_sahil_aggarwal-blue)](https://www.instagram.com/mesahilaggarwal)
+[![Instagram Follow](https://img.shields.io/badge/Follow%20on%20Instagram-%40mesahilkansal-blue)](https://www.instagram.com/mesahilkansal)
 [![LinkedIn](https://img.shields.io/badge/Connect%20on%20LinkedIn-Sahil%20Kansal-blue)](https://www.linkedin.com/in/sahil-kansal-446739217)
 
 
